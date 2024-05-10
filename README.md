@@ -1,6 +1,6 @@
 # 😎 DESAFIO IMERSÃO IA ALURA - GOOGLE | 2024 ✅
 ![poro2](https://github.com/juansf04/DemacIA_DesafioAlura/assets/165486212/5e528e2a-cf58-453c-84ef-e2d7edf5041a)
-## 📚 DemacIA Runes 📚
+## 📚 DemacIA Infos 📚
 **Melhor forma de obter as runas e itens do seu campeão o mais rapidamente possível!**
 
 No vasto e complexo mundo do League of Legends, a estratégia é a chave para a vitória. Desde a escolha das runas até a seleção dos itens, cada decisão molda o destino de uma partida. Mas e se você pudesse desvendar esses mistérios com facilidade, tudo através de uma simples IA de texto?
